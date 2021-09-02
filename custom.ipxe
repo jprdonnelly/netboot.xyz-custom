@@ -2,7 +2,7 @@
 ###
 ### netboot.xyz-custom menu
 ###
-
+set github_user jprdonnelly
 # set location of local netboot.xyz live assets
 set live_endpoint http://192.168.2.252
 
